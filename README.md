@@ -2,10 +2,15 @@
 Utilize the AndroidDebugBridge API in your C# .NET projects!
 
 ## Featues:
-###### ✅ Download & extract automatically latest platform-tools
-###### ✅ Execute ADB commands (adb)
-###### ✅ Execute Fastboot commands (fastboot)
+* ✅ Download & extract automatically latest platform-tools
+* ✅ Execute ADB commands (adb)
+* ✅ Execute Fastboot commands (fastboot)
 
 ## Support:
-[Telegram (Updates)](https://t.me/androiddll)
-[Telegram (Support & Chat)](https://t.me/androidsup)
+* Telegram
+  * [Telegram (Updates)](https://t.me/androiddll)
+  * [Telegram (Support & Chat)](https://t.me/androidsup)
+* Discord
+  * Soon
+* XDA
+  * Soon
