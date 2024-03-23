@@ -6,6 +6,10 @@ Utilize the AndroidDebugBridge API in your C# .NET projects!
 * ✅ Execute ADB commands (adb)
 * ✅ Execute Fastboot commands (fastboot)
 
+## Credits:
+* Google for Android Debug Bridge
+* ICSharpCode for SharpZipLib
+
 ## Support:
 * Telegram
   * [Telegram (Updates)](https://t.me/androiddll)
