@@ -8,7 +8,6 @@ Utilize the AndroidDebugBridge API in your C# .NET projects!
 
 ## Credits:
 * Google for Android Debug Bridge
-* ICSharpCode for SharpZipLib
 
 ## Support:
 * Telegram
